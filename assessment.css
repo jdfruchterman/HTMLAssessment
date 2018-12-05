@@ -7,10 +7,12 @@ table {
   border: 3px solid blue;
 }
 
-table thead th {
+table thead tr th {
   font-weight: bold;
   color: blue;
 }
+
+table { text-align: center; }
 
 ul, ol {
   list-style-type: square;
